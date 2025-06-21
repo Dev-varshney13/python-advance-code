@@ -1,0 +1,46 @@
+[
+    {
+        "id": "101",
+        "name": "Dev",
+        "department": "HR",
+        "monthly_salary": 40000.0,
+        "type": "fulltime"
+    },
+    {
+        "id": "102",
+        "name": "Nisha",
+        "department": "hr",
+        "monthly_salary": 65000.0,
+        "type": "fulltime"
+    },
+    {
+        "id": "104",
+        "name": "Parth",
+        "department": "developer",
+        "monthly_salary": 50000.0,
+        "type": "fulltime"
+    },
+    {
+        "id": "105",
+        "name": "Shreya",
+        "department": "Marketing",
+        "monthly_salary": 45000.0,
+        "type": "fulltime"
+    },
+    {
+        "id": "201",
+        "name": "krish",
+        "department": "delivery",
+        "hourly_rate": 200.0,
+        "hours_worked_per_month": 180.0,
+        "type": "parttime"
+    },
+    {
+        "id": "301",
+        "name": "Karan",
+        "department": "manager",
+        "monthly_salary": 75000.0,
+        "type": "manager",
+        "bonus": 10000.0
+    }
+]
